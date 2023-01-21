@@ -1,5 +1,5 @@
 # strip-ansi
-Rust inspired implementation of chalk/strip-ansi. 
+Rust inspired implementation of [chalk/strip-ansi](https://github.com/chalk/strip-ansi). 
 
 ## Usage
 ```rust 
